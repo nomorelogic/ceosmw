@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/marcello/development/fpc/bin/x86_64-linux/fpc.sh" Date="1441635183"/>
+  <Params Value=" -MObjFPC -Scaghi -Cg -Cirot -O1 -gw2 -godwarfsets -gl -gh -Xg -l -vewnhibq -Fi/media/dati/dev/llabgit/ceosmw/demos/plugindemo/plugintest1/lib/x86_64-linux -Fl/opt/gnome/lib -Fu/media/dati/dev/llablibs/ceosmw/trunk/lib/x86_64-linux -Fu/home/marcello/development/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/marcello/development/lazarus/lcl/units/x86_64-linux -Fu/home/marcello/development/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/marcello/development/lazarus/packager/units/x86_64-linux -Fu/media/dati/dev/llabgit/ceosmw/demos/plugindemo/plugintest1/ -FU/media/dati/dev/llabgit/ceosmw/demos/plugindemo/plugintest1/lib/x86_64-linux/ -olibplugintest1.so -dLCL -dLCLgtk2 -dUseCThreads plugintest1.lpr"/>
+</CONFIG>
